@@ -1,1 +1,1 @@
-# board-game-guide
+# Board Games Guide
